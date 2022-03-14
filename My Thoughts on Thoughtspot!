@@ -1,0 +1,14 @@
+PROS
+Tableau is On-Prem. A read against Cloud datawarehouse resource will not efficiently use the power of  warehouse resources unlike Thoughtspot
+Complex Operations possible with simple Natural language keywords.Faster Insights
+Efficient RLS Row level security
+Flexibility with Front end drilldown and less effort with designing the dashboard
+Cons
+"Single source of truth is our goal. Design is currently NOT in place to support where we want to be. 
+With Data meshing ideas floating, this may change our perspective. 
+Selling to switch from Tableau to Thoughtspot might be Challenging"
+Lack of Flexibility for quick tasks. No access to spreadsheet. Move away from Self Analytics to Technology involvement
+Unstructured data direct access. 
+Inability to use Custom queries
+
+Longer time to setup. With single source of truth, the process/design can be governed better with tradeoff of losing self- analytics flexibility that Tableau offers.
